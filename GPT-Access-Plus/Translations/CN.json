@@ -1,0 +1,123 @@
+{
+  "Common": {
+    "return_menu": "返回菜单↩️",
+    "return_back": "返回上一步↩️"
+  },
+  "Subcommon": {
+    "what_is_this": "这是什么❓️",
+    "what_is_difference": "有何不同❓",
+    "view_example": "查看示例💡"
+  },
+  "Languages": {
+    "language_chosen": "已选择俄语，您可以在“使用🖥”→“我的个人资料👤”→“更换语言🌐”中更改"
+  },
+  "Menu": {
+    "menu": "选择一个部分",
+    "chat_with_gpt4": "与GPT-4聊天🤖",
+    "customization": "个性化🎨",
+    "about_bot": "关于机器人📱",
+    "usage": "使用🖥",
+    "made_by_rtools": "🔮由RTools制作🔮",
+    "rtools": "我们提供创新且精确的商业和个人解决方案。我们可以根据需求制作网站、动画、机器人等",
+    "contact": "🔮联系我们🔮"
+  },
+  "PreChat": {
+    "prechat": "如果您想尝试，请进入免费聊天\n如果您有订阅，请进入VIP聊天💎",
+    "free_chat": "免费聊天🎁",
+    "vip_chat": "VIP聊天💎",
+    "difference": "对于订阅者，我们为与GPT聊天提供了单独的资源，因此免费和付费请求是两个不同的流程\n在VIP流程中，请求处理稍快（尽管您可能不会注意到差异，因为免费请求的处理速度也很快）"
+  },
+  "Customization": {
+    "customization": "在这里，您可以为 GPT 聊天设置特定的风格和一些信息",
+    "set_style": "设置风格🕶",
+    "set_info": "设置信息📚",
+    "description": "🔸 风格：在这里您可以为与 GPT 的对话设定风格。您是否希望对话是非正式的、幽默的、浪漫的还是教育性的？选择权完全在您手中。聊天 GPT 将遵循您选择的风格\n🔸 信息：这个部分用来传达给 GPT 一些具体信息。例如，您正在学习 10 年级的数学或者准备心理学考试。您提供的信息将在对话过程中被考虑"
+  },
+  "About": {
+    "about": "什么是 Chat GPT-4 Access Plus？",
+    "about_product": "关于产品📖",
+    "features": "功能☄️",
+    "advantages": "优势➕",
+    "additional_info": "附加信息📑",
+    "product": "聊天 GPT 是当今技术的奇迹，能够创建文本、回答几乎所有问题、生成创意，甚至成为愉快的谈话伙伴。然而，获取这种工具的访问可能是复杂的、昂贵的，并且由于大量用户而非常具有问题性。正因为如此，我们创建了 \"GPT-4 Access Plus\"",
+    "capabilities": "使用 GPT 聊天，您可以：\n💻 即使您不懂编程也可以创建小程序\n🎯 获得对特定问题的非常准确的回答，这些问题在搜索引擎中找不到\n👨‍⚕ 像与心理学家或心理治疗师一样进行会话\n❤️‍🔥️ 像与亲爱的人交流一样，并完全定制伙伴的性格\n📹 获取创作视频/照片或剧本的新鲜想法\n📝 完成难以通过搜索引擎查找的复杂作业\n⚙️ 将其集成到您的支持服务或 CRM 系统中（不在此机器人中）\n💫 总之，几乎所有您想象得到的事情",
+    "benefits": "⏱ 连接后立即访问机器人\n🗄 巨大的数据量，可以转化为您的知识\n👶 最常见和最方便的信息获取方式，每个人都可以使用这个机器人\n🛠 为您的需求量身定制机器人的巨大可能性\n📈 高速处理请求\n⌚️ 24/7 可用性"
+  },
+  "Usage": {
+    "usage": "所有与使用机器人相关的内容",
+    "my_profile": "我的个人资料👤",
+    "rates": "费率📋",
+    "payment": "支付💳",
+    "support": "支持📞",
+    "costs": "💠 1个月：7080₸ (15$)\n\n💠 3个月：18880₸ (40$)\n\t\t-节省 11.1% (2360₸)\n\n💠 6个月：33040₸ (70$)\n\t\t-节省 22.2% (9440₸)\n\n💠 12个月：56640₸ (120$)\n\t\t-节省 33.3% (28320₸)",
+    "contact_text": "如有任何问题或建议，您可以通过下面的联系方式联系我们",
+    "contact": "联系📞"
+  },
+  "ChatCommon": {
+    "new_dialog": "新对话🔄"
+  },
+  "ChatDB": {
+    "no_free_queries": "您的免费查询已用完。您可以联系支持或支付订阅",
+    "need_subscription_for_vip": "要访问 VIP 聊天💎，您需要购买订阅",
+    "subscription_expired": "您的订阅已过期。要访问 VIP 聊天💎，您需要更新它",
+    "verification_successful": "验证成功，欢迎进入 VIP 聊天💎",
+    "active_subscription": "您有一个活跃的订阅，可以使用 VIP 聊天💎",
+    "renew_for_vip": "您的订阅已过期。更新订阅以访问 VIP 聊天💎，或者您可以使用免费查询"
+  },
+  "ChatFree": {
+    "chatfree": "向 GPT-4 聊天发送请求",
+    "reset": "旧对话已重置，可以开始新的对话"
+  },
+  "ChatVIP": {
+    "chatvip": "向 GPT-4💎聊天发送请求",
+    "reset": "旧对话已重置，可以开始新的对话💎"
+  },
+  "Style": {
+    "style": "设定 GPT 聊天将遵循的风格",
+    "current_style": "当前风格✅",
+    "reset_style": "重置风格❌",
+    "example": ".",
+    "current": "当前风格：",
+    "not_set": "风格未设定",
+    "reset": "风格已重置，要使更改生效需要开始新的对话",
+    "applied": "风格已应用，要使用它需要开始新的对话"
+  },
+  "Information": {
+    "information": "设定 GPT 聊天将考虑的信息",
+    "current_info": "当前信息✅",
+    "reset_info": "重置信息❌",
+    "example": ".",
+    "current": "当前信息：",
+    "not_set": "信息未设定",
+    "reset": "信息已重置，要使更改生效需要开始新的对话",
+    "applied": "信息已应用，要使用它需要开始新的对话"
+  },
+  "Profile": {
+    "profile": "在这里您可以查看或更改您的个人资料信息",
+    "trial_requests": "试用请求🎟",
+    "my_subscription": "我的订阅📆",
+    "my_id": "我的 ID🆔",
+    "change_language": "更改语言🌐",
+    "remaining": "您剩余的试用请求数量：",
+    "no_active_subscription": "您没有活跃的订阅",
+    "subscription_expired": "您的订阅有效期已到：",
+    "you_have_subscription": "您是 GPT-4 Access Plus💎订阅者",
+    "subscription_end": "订阅结束日期：",
+    "real_end": "实际订阅结束时间可能稍晚",
+    "your_id": "您的 ID：",
+    "id_info": "您不需要此标识符，它只在特殊情况下需要，需预先协商",
+    "choose_language": "选择语言",
+    "language_changed": "已应用汉语"
+  },
+  "Payment": {
+    "payment": "选择套餐",
+    "1_month": "1 个月💠",
+    "3_months": "3 个月💠",
+    "6_months": "6 个月💠",
+    "12_months": "12 个月💠",
+    "description_1_month": "1个月订阅",
+    "description_3_months": "3个月订阅",
+    "description_6_months": "6个月订阅",
+    "description_12_months": "12个月订阅"
+  }
+}
