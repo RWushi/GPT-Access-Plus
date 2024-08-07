@@ -7,10 +7,10 @@ import asyncpg, json, os
 wait = "⏳"
 
 DATABASE_CONFIG = {
-    'host': 'ec2-3-228-117-228.compute-1.amazonaws.com',
-    'database': 'dfmjadjl9tkjoa',
-    'user': 'irnzryzxxunrsp',
-    'password': '955451979ac51e833f7cc119cfafa42fc4e4fd9879ec048b894a966396808a01',
+    'host': '',
+    'database': '',
+    'user': '',
+    'password': '',
     'port': '5432',
     'ssl': 'require'
 }
@@ -56,7 +56,7 @@ class UserState(StatesGroup):
     profile = State()
     payment = State()
 
-bot = Bot(token='6400778961:AAFdYs7RFAHVvRNDyvXBAlevX1Lbn7dtUr4')
+bot = Bot(token='')
 dp = Dispatcher(bot, storage=storage)
 
 
@@ -94,4 +94,4 @@ class LanguageMiddleware(BaseMiddleware):
 dp.middleware.setup(LanguageMiddleware())
 
 
-OPENAI_API_KEY = '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'
+OPENAI_API_KEY = ''
